@@ -18,7 +18,7 @@
 
 .subtitle{
     font-size: 16px;
-    color: black;
+    color: lightskyblue;
     font-style: italic;
 }
 
@@ -35,7 +35,7 @@
 
 .authors{
     font-size:20px;
-    color:rgb(142,0,242);
+    color:rgb(255,252,0);
 }
 
 .color0{
@@ -76,10 +76,11 @@
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left:2vh;
     padding:1vh 3vh 1vh 3vh;
-    border:solid rgb(142,0,242) 1px;
+    border:solid rgb(255,252,0) 1px;
     border-radius: 50px;
-    color:#020202;
-    background-color:rgb(255,252,0)
+    color:lightskyblue;
+    background-color:rgba(211,211,211,0.4);
+    font-size:16px;
 
 }
 
