@@ -12,7 +12,8 @@
 
 .title{
     font-size: 40px;
-    color:green;
+    color:rgb(255,252,0);
+    font-family: 'Arbutus Slab'
 }
 
 .subtitle{
@@ -27,22 +28,59 @@
     border: solid 1px #999; 
     overflow-y: scroll;
     background-color: rgba(0,0,0,0.7);
-    color:lightskyblue;
 }
 
 
 
 
 .authors{
-    color: rgb(191,139,255);
     font-size:20px;
+    color:rgb(142,0,242);
 }
 
+.color0{
+    color:red;
+}
+.color1{
+    color:green;
+}
+
+.color2{
+    color:rgb(163, 98, 243);
+}
+
+.color3{
+    color:gold;
+}
+
+.color4{
+    color:darkorange;
+}
+
+.color5{
+    color:palevioletred;
+}
+
+.color6{
+    color:rgb(85,255,103);
+}
+
+.color7{
+    color:whitesmoke;
+}
+
+
+
+
 .messages{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-left:2vh;
-    padding:0 3vh 0 3vh;
-    border:solid white 1px;
+    padding:1vh 3vh 1vh 3vh;
+    border:solid rgb(142,0,242) 1px;
     border-radius: 50px;
+    color:#020202;
+    background-color:rgb(255,252,0)
+
 }
 
 
